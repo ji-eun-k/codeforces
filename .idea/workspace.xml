@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7461a0e5-0730-461d-a611-abd6090290ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/118a_string_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/231a_team.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +40,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/118a_string_task.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <state relative-caret-position="152">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/231a_team.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -68,12 +77,13 @@
         <option value="$PROJECT_DIR$/71a_way_too_long_words.py" />
         <option value="$PROJECT_DIR$/158a_next_round.py" />
         <option value="$PROJECT_DIR$/118a_string_task.py" />
+        <option value="$PROJECT_DIR$/231a_team.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="763" />
-    <option name="y" value="242" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="921" />
+    <option name="y" value="267" />
     <option name="width" value="990" />
     <option name="height" value="645" />
   </component>
@@ -82,7 +92,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,6 +103,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -113,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.118a_string_task">
+  <component name="RunManager" selected="Python.231a_team">
     <configuration name="118a_string_task" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codeforce" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,6 +187,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="231a_team" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codeforce" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/231a_team.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="71a_way_too_long_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codeforce" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,6 +231,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.231a_team" />
         <item itemvalue="Python.118a_string_task" />
         <item itemvalue="Python.158a_next_round" />
         <item itemvalue="Python.71a_way_too_long_words" />
@@ -221,15 +253,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="611" y="194" width="792" height="516" extended-state="0" />
+    <frame x="921" y="267" width="990" height="645" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25759578" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2570829" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32216495" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32038835" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -270,8 +302,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/118a_string_task.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        <state relative-caret-position="152">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/231a_team.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
