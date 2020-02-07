@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7461a0e5-0730-461d-a611-abd6090290ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/231a_team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/50a_domino_piling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,11 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/231a_team.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/50a_domino_piling.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -78,12 +87,13 @@
         <option value="$PROJECT_DIR$/158a_next_round.py" />
         <option value="$PROJECT_DIR$/118a_string_task.py" />
         <option value="$PROJECT_DIR$/231a_team.py" />
+        <option value="$PROJECT_DIR$/50a_domino_piling.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="921" />
-    <option name="y" value="267" />
+    <option name="x" value="649" />
+    <option name="y" value="357" />
     <option name="width" value="990" />
     <option name="height" value="645" />
   </component>
@@ -123,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.231a_team">
+  <component name="RunManager" selected="Python.50a_domino_piling">
     <configuration name="118a_string_task" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codeforce" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,27 +176,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1a_theatre_square" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codeforce" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1a_theatre_square.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="231a_team" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codeforce" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,6 +189,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/231a_team.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="50a_domino_piling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codeforce" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/50a_domino_piling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.50a_domino_piling" />
         <item itemvalue="Python.231a_team" />
         <item itemvalue="Python.118a_string_task" />
         <item itemvalue="Python.158a_next_round" />
         <item itemvalue="Python.71a_way_too_long_words" />
-        <item itemvalue="Python.1a_theatre_square" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +263,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="921" y="267" width="990" height="645" extended-state="0" />
+    <frame x="649" y="357" width="990" height="645" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2570829" />
@@ -310,7 +320,14 @@
     <entry file="file://$PROJECT_DIR$/231a_team.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/50a_domino_piling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
         </state>
       </provider>
     </entry>
