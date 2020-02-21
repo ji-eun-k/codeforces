@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7461a0e5-0730-461d-a611-abd6090290ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/546a_soldier_and_bananas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/160a_twins.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,11 +58,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/546a_soldier_and_bananas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="171">
+              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/160a_twins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -103,12 +112,13 @@
         <option value="$PROJECT_DIR$/116a_tram.py" />
         <option value="$PROJECT_DIR$/546a_soldier_and_banana.py" />
         <option value="$PROJECT_DIR$/546a_soldier_and_bananas.py" />
+        <option value="$PROJECT_DIR$/160a_twins.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="887" />
-    <option name="y" value="278" />
+    <option name="x" value="751" />
+    <option name="y" value="153" />
     <option name="width" value="974" />
     <option name="height" value="761" />
   </component>
@@ -117,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,6 +138,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,10 +288,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="887" y="278" width="974" height="761" extended-state="0" />
-    <editor active="true" />
+    <frame x="751" y="153" width="974" height="761" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32870865" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32870865" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -415,6 +424,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/546a_soldier_and_banana.py" />
     <entry file="file://$PROJECT_DIR$/263a_beautiful_matrix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -443,9 +453,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/546a_soldier_and_banana.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/116a_tram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -455,8 +462,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/546a_soldier_and_bananas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="171">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/160a_twins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
