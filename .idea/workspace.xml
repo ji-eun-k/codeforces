@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7461a0e5-0730-461d-a611-abd6090290ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/266b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../baekjoon" />
   </component>
   <component name="RunManager" selected="Python.546a_soldier_and_bananas">
     <configuration name="116a_tram" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -159,5 +158,11 @@
       <updated>1580690046230</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="504" y="332" key="FileChooserDialogImpl" timestamp="1583379513409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="504" y="332" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583379513409" />
   </component>
 </project>
