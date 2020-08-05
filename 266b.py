@@ -1,3 +1,3 @@
-n, t, s = input().split()
-for i in range(int(t)):
-    ttt
+print("hi")
+print("haha")
+print(len('n'))
